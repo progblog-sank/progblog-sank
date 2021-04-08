@@ -1,5 +1,9 @@
 ### 駆け出したいフロントエンジニア 👋
 
+### SKILL
+
+HTML、CSS、JavaScript、jQuery、Vue、Nuxt、firebase
+
 ### PROJECT
 
 #### WordPress
