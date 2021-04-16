@@ -1,10 +1,10 @@
-### 駆け出したいフロントエンジニア 👋
+### フロントエンジニア 👋
 
 ### SKILL
 
-HTML、CSS、JavaScript、jQuery、Vue、Nuxt、firebase
+HTML、CSS、JavaScript、jQuery、Vue3、Nuxt、firebase
 
-### PROJECT
+### PROJECT（個人）
 
 #### WordPress
 
