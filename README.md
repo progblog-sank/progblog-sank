@@ -9,16 +9,18 @@ HTML、CSS、JavaScript、jQuery、Vue3、Nuxt、firebase
 #### WordPress
 
 - https://progblog-web.com/
+- https://prenovels.com/
 
 #### Nuxt.js
 
 - https://nuxt.progblog-web.com/
 - https://koreyomi.com/
-- https://relay.koreyomi.com/
+- https://pugear.dev/
 
 #### Vue
 
 - https://search.koreyomi.com/
+- https://relay.koreyomi.com/
 
 #### PHP
 
