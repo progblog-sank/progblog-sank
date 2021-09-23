@@ -9,7 +9,6 @@ HTML、CSS、JavaScript、jQuery、Vue3、Nuxt、firebase
 #### WordPress
 
 - https://progblog-web.com/
-- https://prenovels.com/
 
 #### Nuxt.js
 
